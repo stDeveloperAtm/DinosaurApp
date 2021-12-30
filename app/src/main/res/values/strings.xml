@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DinosaurApp</string>
+    <string name="startButton">スタート！！</string>
+    <string name="okButton">決定！</string>
+
+    <string-array name="dinosaur">
+        <item>アンキロサウルス</item>
+        <item>ブラキオサウルス</item>
+        <item>ギガノトサウルス</item>
+        <item>カバ</item>
+        <item>ミア</item>
+        <item>モササウルス</item>
+        <item>パキケファロサウルス</item>
+        <item>パラサウロロフス</item>
+        <item>プテラノドン</item>
+        <item>リンタ</item>
+        <item>スピノサウルス</item>
+        <item>ステゴサウルス</item>
+        <item>トリケラトプス</item>
+        <item>ティラノサウルス</item>
+        <item>ヴェロキラプトル</item>
+    </string-array>
+
+
+    <string-array name="hira_dinosaur">
+        <item>あんきろさうるす</item>
+        <item>ぶらきおさうるす</item>
+        <item>ぎがのとさうるす</item>
+        <item>かば</item>
+        <item>みあ</item>
+        <item>もささうるす</item>
+        <item>ぱきけふぁろさうるす</item>
+        <item>ぱらさうろろふす</item>
+        <item>ぷてらのどん</item>
+        <item>りんた</item>
+        <item>すぴのさうるす</item>
+        <item>すてごさうるす</item>
+        <item>とりけらとぷす</item>
+        <item>てぃらのさうるす</item>
+        <item>ゔぇろきらぷとる</item>
+    </string-array>
+</resources>
