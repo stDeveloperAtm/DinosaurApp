@@ -71,8 +71,8 @@ public class SlideDisplayActivity extends AppCompatActivity {
         aryImgResources.add(R.drawable.ankylosaurus);
         aryImgResources.add(R.drawable.brachiosaurus);
         aryImgResources.add(R.drawable.giganotosaurse);
-        aryImgResources.add(R.drawable.kaba);
-        aryImgResources.add(R.drawable.mia);
+        //aryImgResources.add(R.drawable.kaba);
+        //aryImgResources.add(R.drawable.mia);
         aryImgResources.add(R.drawable.mosasaurus);
         aryImgResources.add(R.drawable.pachycephalosaurus);
         aryImgResources.add(R.drawable.parasaurolophus);
@@ -166,7 +166,7 @@ public class SlideDisplayActivity extends AppCompatActivity {
         }
         removeNumber.add(index);
         Log.d("TEST", "removeNumber add");
-
+        Log.d("TEST", "show itemName = " + dinosaur[index]);
         return index;
     }
 
