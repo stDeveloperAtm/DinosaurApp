@@ -118,7 +118,7 @@ public class SlideDisplayActivity extends AppCompatActivity {
                         mainLayout.requestFocus();
 
                     }else {
-                        Toast toast = Toast.makeText(SlideDisplayActivity.this,"ちゃうよ", Toast.LENGTH_SHORT);
+                        Toast toast = Toast.makeText(SlideDisplayActivity.this,"ちがうよ", Toast.LENGTH_SHORT);
                         toast.show();
                     }
                     count = 0;
